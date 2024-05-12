@@ -1,9 +1,9 @@
 # Benchtop pneumatic actuation apparatus with 8 output channels
 ## Hatton Lab @ the University of Toronto
 
-This repository documents the benchtop pneumatic actuation system used in the Hatton Lab (Bio-Inspired Material and Design Laboratory) at the University of Toronto.
+This repository documents the benchtop pneumatic actuation system used in the Hatton Lab (Bio-Inspired Materials and Design Laboratory) at the University of Toronto.
 
-The benchtop pneumatics system has been recently updated. Previous versions of the system are documented in other repositories (LINK and LINK).
+The benchtop pneumatics system has been recently updated. Previous versions of the system are documented in another repository (https://github.com/sitruklaq/Hattonlab-Pneumatics).
 
 ## Repository structure
  - The **documentation** folder is currently largely empty but will contain general documentation for the system (i.e., code logic flow, list of serial commands, etc.).
