@@ -21,6 +21,10 @@ This stage of testing verifies that an assembled pump control circuit correctly 
 > [!CAUTION]
 > Before using this code, ensure that the pump circuit is correct. Pumps can be proxied with standard DC motors provided that the voltage supply levels for the motors are respected (i.e., if using a 5V motor as a proxy for a 12V pump, ensure that input power is limited to 5V). Ensure that the motor power is not supplied by the microcontroller and that there is protective circuitry (e.g., a motor driver board, or an H-bridge circuit with protective components like diodes) between the pump/motor and the microcontroller to protect the microcontroller.
 
+A sample motor circuit using the L298N motor driver is shown in the image below.
+
+![PumpCircuit](assets\pumpsonly_schem.png).
+
 The following **setup** variables must be set or checked:
  - positive input channel pump pins: set the pin numbers for the two Arduino pins used to drive the positive input channel pump
  - negative input channel pump pins: set the pin numbers for the two Arduino pins used to drive the negative input channel pump
