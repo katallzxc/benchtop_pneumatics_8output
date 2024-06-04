@@ -41,7 +41,7 @@ The valves are 2-way solenoid valves (RLM204P30B, Asco) and normally closed (mea
 
 An example of a PCB layout for one of the valve circuits made by Kurtis Laqua is shown below.
 
-![InputValvePCB](figs\3_valve_board_image.png)
+![InputValvePCB](..\figs\3_valve_board_image.png)
 
 #TODO: confirm 5V from L298N onboard regulator & fill out here
 
@@ -53,7 +53,7 @@ The sensors (ADP5101, Panasonic) have a range of +/-100 kPa and are active senso
 
 An example of a PCB layout for one of the pressure sensor circuits made by Kurtis Laqua is shown below.
 
-![SensorPCB](figs\sensor_board_image.png)
+![SensorPCB](..\figs\sensor_board_image.png)
 
 ## Structural subsystem
 
