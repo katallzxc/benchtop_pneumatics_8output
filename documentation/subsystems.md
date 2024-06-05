@@ -58,3 +58,9 @@ An example of a PCB layout for one of the pressure sensor circuits made by Kurti
 ## Structural subsystem
 
 The structural subsystem consists of pneumatic and mechanical connectors. Pneumatic connectors include tubes and luer fittings connecting the input pumps and output connectors to the shared channel. Mechanical connectors mainly consist of bolts and standoffs used to connect components and circuits to sheets of acrylic, with the base sheet holding the pumps and reservoirs, a sheet above the pumps and reservoirs holding the majority of the remaining components, and a few small raised platforms holding power switches and connectors.
+
+# System Architecture
+
+The following image shows an alternate, more granular system architecture.
+
+![SystemArchitecture](..\figs\SystemArchitecture.jpg)

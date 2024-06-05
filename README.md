@@ -14,3 +14,5 @@ The benchtop pneumatics system has been recently updated. Previous versions of t
 
 ## Quick-start user guide
 (to be filled)
+
+![SystemArchitecture](.\figs\SystemArchitecture.jpg)
